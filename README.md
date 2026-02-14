@@ -1,6 +1,6 @@
 # Typst Swiss letter template
 
-A simple template to write letters following the usual layout in Switzerland. [Example](main.pdf)
+A simple typst template to write letters following the usual layout in Switzerland. [Example](main.pdf)
 
 ## Installation
 
