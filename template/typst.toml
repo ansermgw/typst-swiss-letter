@@ -1,0 +1,6 @@
+[package]
+name = "swiss-letter"
+entrypoint = "template.typ"
+authors = ["Gwenaël Ansermoz"]
+license = "CC0 1.0 Universal"
+description = "A simple swiss letter template"
