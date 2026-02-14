@@ -21,8 +21,8 @@ A simple typst template to write letters following the usual layout in Switzerla
     city: "Ville",
     postal_code: 42,
   ),
-  receiver: [
-    Mr Awsome Receiver \
+  recipient: [
+    Mr Awsome Recipient \
     Some street 2 \ 
     42 HomeCity
   ],
@@ -52,9 +52,9 @@ A simple typst template to write letters following the usual layout in Switzerla
     city: "City",
     postal_code: 42,
   ),
-  receiver: [
-    Mr Awsome Receiver \
-    Some street 2 \
+  recipient: [
+    Mr Awsome Recipient \
+    Some street 2 \ 
     42 HomeCity
   ],
   date: datetime.today(),

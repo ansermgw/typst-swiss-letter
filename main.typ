@@ -9,9 +9,9 @@
     city: "City",
     postal_code: 42,
   ),
-  receiver: [
-    Mr Awsome Receiver \
-    Some street 2 \
+  recipient: [
+    Mr Awsome Recipient \
+    Some street 2 \ 
     42 HomeCity
   ],
   date: datetime.today(),
