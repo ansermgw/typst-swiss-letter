@@ -4,7 +4,8 @@ A simple typst template to write letters following the usual layout in Switzerla
 
 ## Installation
 
-Run `make install`
+* On Ubuntu run `make install`
+* For others [read the docs](https://github.com/typst/packages?tab=readme-ov-file#local-packages) 
 
 ## Usage
 
