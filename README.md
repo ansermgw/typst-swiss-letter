@@ -22,7 +22,7 @@ A simple typst template to write letters following the usual layout in Switzerla
     postal_code: 42,
   ),
   recipient: [
-    Mr Awsome Recipient \
+    Mr Awesome Recipient \
     Some street 2 \ 
     42 HomeCity
   ],
@@ -53,7 +53,7 @@ A simple typst template to write letters following the usual layout in Switzerla
     postal_code: 42,
   ),
   recipient: [
-    Mr Awsome Recipient \
+    Mr Awesome Recipient \
     Some street 2 \ 
     42 HomeCity
   ],

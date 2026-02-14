@@ -10,7 +10,7 @@
     postal_code: 42,
   ),
   recipient: [
-    Mr Awsome Recipient \
+    Mr Awesome Recipient \
     Some street 2 \ 
     42 HomeCity
   ],

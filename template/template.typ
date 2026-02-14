@@ -15,8 +15,8 @@
     postal_code: 42,
   ),
   recipient: [
-    Mr Awsome Recipient \
-    Some street 2 \ 
+    Mr Awesome Recipient \
+    Some street 2 \
     42 HomeCity
   ],
   date: datetime.today(),
@@ -42,7 +42,7 @@
   [#sender.postal_code #sender.city]
 
   /*
-    RECEIVER
+    RECIPIENT
   */
   rightBlock({
     recipient
