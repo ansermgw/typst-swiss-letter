@@ -11,9 +11,9 @@ Run `make install`
 ### Basic French
 
 ```typst
-#import "@local/swiss-letter:0.0.1": lettre
+#import "@local/swiss-letter:0.0.1": letter
 
-#show: lettre.with(
+#show: letter.with(
   sender: (
     name: "Prénom Nom",
     street: "Une Rue 1",
@@ -40,9 +40,9 @@ Run `make install`
 ### Basic English
 
 ```typst
-#import "@local/swiss-letter:0.0.1": lettre
+#import "@local/swiss-letter:0.0.1": letter
 
-#show: lettre.with(
+#show: letter.with(
   lang: "en",
   dateFormat: "the dd MMMM yyyy",
   sender: (

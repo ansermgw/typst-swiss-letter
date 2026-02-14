@@ -1,6 +1,6 @@
-#import "@local/swiss-letter:0.0.1": lettre
+#import "@local/swiss-letter:0.0.1": letter
 
-#show: lettre.with(
+#show: letter.with(
   lang: "en",
   dateFormat: "the dd MMMM yyyy",
   sender: (

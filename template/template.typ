@@ -5,7 +5,7 @@
   body
 }))
 
-#let lettre(
+#let letter(
   lang: "fr",
   dateFormat: "le dd MMMM yyyy",
   sender: (
